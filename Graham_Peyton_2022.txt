@@ -1,0 +1,114 @@
+﻿ Graham Peyton
+
+graham@peyton.co.za+1 203 993 2872US Permanent ResidentResidence: CT, USA
+Engineering leader with 8+ years of experience working in the medical device industry and four degrees in biomedical/electrical engineering. Experienced in leading and working with cross-functional engineering teams as a manager and individual contributor. Expert in analog/mixed signal ASIC design, analog & digital electronics, PCB & package design/modeling and manufacturing, wireless systems, imaging/instrumentation/measurement systems & algorithms, and software development. Efficient and goal-oriented work ethic with a track history of success. 
+
+EDUCATION AND RESEARCH EXPERIENCE
+
+
+2014-2017 Imperial College London, UK
+PhD, Bioengineering, Bio-inspired VLSI Circuits & Systems Group, Imperial College London
+* Proposed, developed and patented a highly miniaturised ultrasound imaging system using quadrature synthetic aperture beamforming. This includes development of a custom AFE, digital beamformer (FPGA-based), PCB and software post-processor. 2013
+
+
+
+2011-2012
+
+
+2008-2010University of the Witwatersrand, South Africa 
+
+MSc(Eng), Master of Science in Engineering (cum laude), 2013
+* Thesis: multivariate signal processing techniques for analyzing magnetoencephalography signals that characterize the spatiotemporal dynamics of the brain during decision making.
+BScEng(Elec), Electrical Engineering (summa cum laude), 2011-2012
+* Thesis: EEG brain-computer interface enhanced by means of an SSVEP "brain switch."
+BEngSc(BME), Biomedical Engineering (summa cum laude), 2008-2010
+* Thesis: designed and built a pulse oximeter.
+PROFESSIONAL EXPERIENCE
+
+
+
+May 2019 - Present
+
+
+
+
+
+
+
+
+Nov 2020 - March 2021
+
+
+
+
+
+2017-2020Electrical Engineering Lead at Liminal Sciences Inc.
+* Started out as part-time consultant until moving over full-time to lead development of next-gen, wearable medical imaging hardware and supporting firmware.
+* Own the entire PCBA design cycle; architecture definition, component selection, schematic capture, simulation, layout, PCB signal and power integrity, DFM/DFT, bring-up, verification, environmental and EMC compliance, integration and manufacturing NPI.
+* Key contributor to company R&D and hiring strategy.
+* Hiring manager for multiple hardware/firmware positions.
+
+Principal Imaging Engineer at Butterfly Network Inc.
+* Imaging lead for optimization of multiple imaging presets and panoramic development.
+* Collaborating with clinical team to assess clinical performance and regulatory compliance.
+* Developed supporting software infrastructure in Python/C++.
+
+
+Analog/Mixed-Signal ASIC Engineer at Butterfly Network Inc.
+* Single-handedly designed, layed out and tested OTP (eFuse) memory block.
+* Designed and layed out 5GHz SerDes TX link, LVDS drivers.  
+* Advanced BGA and wafer-level packaging design and modeling (TSMC InFO).
+* Longevity testing, verification & validation, chip-level characterization, board bringup. 
+* Embedded work on a wireless prototype.2016-2017Founder at Microsonix.
+* Led team in developing miniaturized ultrasound imaging device for low-resource settings. 
+* Winner of the 2017 Venture Catalyst Challenge (VCC), the UK's largest university innovation programme & competition. Gained significant media attention and won £10k company seed funding. 2016-017Consultant at Oxbridge Biotech Roundtable to Roche Diagnostics
+* Proposed strategic enterprise-level healthcare IT solutions for emerging ecosystems. 
+* Led a multidisciplinary team and presented to C-level management at company HQ in Basel, Switzerland. 2012-2016
+
+Supervisory Experience
+* MSc supervisor, Vasilina Stergiopoulou, University of Patras
+* Undergraduate Project Supervisor, Imperial College London. 
+* Sessional Lecturer, Wits University.
+* Graduate Teaching Assistant for various biomedical and electrical engineering courses. 2012-2013Financial Analytics Consultant at think3dots consulting (Pty) Ltd., South Africa
+Used unsupervised machine learning to predict the profitability of potential cell phone customers, based on historical data.
+2011-2012Intern Research Engineer, RoJo Medical Technology Engineering, a startup medical devices company based in Johannesburg, South Africa. Spearheaded work on developing a mobile, Bluetooth-enabled sensor ideally suited to rural environments.
+2010-2011Student Engineer at ESKOM, South Africa's largest electricity supplier. Responsible for developing a lightning impulse impedance meter for transmission tower ground electrodes.TOOLS AND SKILLS
+
+* Virtuoso; APS/Spectre tools; Calibre tools (DRC, LVS, PEX), Sigrity/Clarity 3D modeling, Virtuoso RF
+* Familiar with digital tools RTL Compiler/Genus, Encounter/Innovus, 
+* Altium/Eagle PCB design
+* Python, C, C++, MATLAB, Java, OCEAN, TCL, SKILL; familiar with OpenCL and parallel computing in MPI.
+* Verilog/VHDL; FPGA development and debugging tools. 
+* Wireless protocols: MQTT, WiFi 802.11, Bluetooth
+PATENTS
+
+* Wireless ultrasound architectures, H Soleimani, G Peyton, NJ Sanchez, US Patent App. 16/836,497 
+* Wireless ultrasound device and related apparatus and methods, K Ersson, L Spector, H Soleimani, G Peyton, US Patent App. 16/838,883
+* Methods and apparatuses for offloading ultrasound data, JM Rothberg, TS Ralston, NJ Sanchez, J Martin, G Peyton, H Soleimani, US Patent App. 16/379,093
+* G Peyton, Miniaturised Wireless Ultrasound System - UK patent gb1621423, filed Dec 16, 2016
+PUBLICATIONS
+
+* Nevada Sanchez, Kailiang Chen, Graham Peyton, et al., An 8960-Element Ultrasound-on-Chip for Point-of-Care Ultrasound, IEEE International Solid-State Circuits Conference (ISSCC), 2021.
+* G. Peyton, B. Farzaneh, H. Soleimani, M.G. Boutelle, E.M. Drakakis, "Quadrature Synthetic Aperture Beamforming Front-End for Miniaturised Ultrasound Imaging", IEEE Transactions on Biomedical Circuits and Systems, 2018
+* G. Peyton, M.G. Boutelle, E.M. Drakakis, "Comparison of Synthetic Aperture Architectures for Miniaturised Ultrasound Imaging Front-Ends", BioMedical Engineering Online, 2018.
+* G. Peyton, M.G. Boutelle, E.M. Drakakis, "Front-End Receiver Architecture for Miniaturised Ultrasound Imaging", The 3rd World Congress on Electrical Engineering and Computer Systems and Science), DOI: 10.11159/icbes17.133, 2017.
+* G. Peyton, "Front-End Receiver for Miniaturised Ultrasound Imaging", PhD thesis, Imperial College London, 2018.
+* G. Peyton, D. M. Rubin, A. Pantanowitz, A. Kleks, M. Teicher, "Analysis of MEG Signals for Selective Arithmetic Tasks", XIV Mediterranean Conference on Medical and Biological Engineering and Computing, January 2016.
+* G. Peyton, R. Hoehler, A. Pantanowitz. "Hybrid BCI for Controlling a Robotic Arm over an IP Network." 6th European Conference of the International Federation for Medical and Biological Engineering, 2015. 
+* G. Peyton, "Analysis of MEG Signals for Selective Arithmetic Tasks", MSc thesis, University of the Witwatersrand, Johannesburg, South Africa, 2014. 
+
+ACADEMIC HONOURS AND AWARDS
+
+* President's Imperial College PhD Scholarship (2014-2017): full PhD scholarship covering tuition fees, stipend and research expenditure (total £50550 per annum), offered to the top ~1% of global applicants 
+* Winner of the 2017 Venture Catalyst Challenge (VCC), the UK's largest university innovation programme & competition. Won £10k company seed funding for an ultrasound imaging startup.
+* Awarded South African National Research Fund (NRF) scholarship in 2013 for postgraduate studies - national scholarship award for outstanding students in engineering. 
+* SAIMM Prestige Prize: best student in the faculty across all engineering disciplines (2012), Wits University
+* Bernard Price Prize (Electrical): most distinguished final year student in Electrical Engineering (2012), Wits University
+* Altron Electronic Engineering Prize: best student in Electronic Engineering in final year (2012), Wits University
+* Schneider Automation Student Award: final year student who attained the best performance in 'Measurement and Control' (2012), Wits University
+* Colin G Caro Award: Most distinguished Biomedical Engineering Student (2010), Wits University
+* Dean's list (top 10% of academic achievers), 2008 - 2012, Wits University
+* Supported by merit award scholarships from 2008-2009 at Wits University.
+* Winner of the 2007 National Pipe Band Championship. My participation was as the drum corp. leading tip. 
+
+

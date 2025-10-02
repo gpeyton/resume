@@ -1,0 +1,537 @@
+/* Comprehensive Technical Resume Stylesheet - 3 Page Version */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10pt;
+    line-height: 1.4;
+    color: #2c3e50;
+    background: white;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+}
+
+.container {
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 0.4in 0.5in 0.6in 0.5in;
+    background: white;
+}
+
+/* Header Styles */
+.header {
+    text-align: center;
+    padding-bottom: 0.15in;
+    border-bottom: 3px solid #2c5f8d;
+    margin-bottom: 0.2in;
+}
+
+.header h1 {
+    font-size: 26pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: 0.5px;
+    margin-bottom: 5px;
+}
+
+.header .title {
+    font-size: 13pt;
+    color: #2c5f8d;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.header .contact {
+    font-size: 9pt;
+    color: #555;
+}
+
+.header .contact-line {
+    margin-top: 3px;
+}
+
+.header .contact .separator {
+    margin: 0 8px;
+    color: #999;
+}
+
+.header .contact a {
+    color: #2c5f8d;
+    text-decoration: none;
+}
+
+.header .contact a:hover {
+    text-decoration: underline;
+}
+
+/* Section Styles */
+.section {
+    margin-bottom: 0.16in;
+}
+
+.section h2 {
+    font-size: 11.5pt;
+    font-weight: 700;
+    color: #2c5f8d;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    border-bottom: 2.5px solid #e0e0e0;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+    page-break-after: avoid;
+}
+
+.section h3 {
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 6px;
+    margin-top: 8px;
+    page-break-after: avoid;
+}
+
+.section h4 {
+    font-size: 9.5pt;
+    font-weight: 600;
+    color: #2c5f8d;
+    margin-bottom: 4px;
+    margin-top: 6px;
+    page-break-after: avoid;
+}
+
+/* Executive Summary */
+.executive-summary {
+    line-height: 1.45;
+    font-size: 10pt;
+    margin-bottom: 8px;
+}
+
+.executive-summary strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+.executive-highlights {
+    margin-left: 20px;
+    margin-bottom: 8px;
+}
+
+.executive-highlights li {
+    margin-bottom: 4px;
+    font-size: 9.5pt;
+    line-height: 1.4;
+}
+
+.executive-highlights strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+.executive-closing {
+    font-size: 10pt;
+    line-height: 1.45;
+    margin-top: 8px;
+}
+
+.executive-closing strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+/* Career Highlights Grid */
+.highlights-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 9px 14px;
+    margin-top: 8px;
+}
+
+.highlight-item {
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+    background: #f8f9fa;
+    padding: 8px;
+    border-radius: 4px;
+    border-left: 3px solid #2c5f8d;
+}
+
+.highlight-icon {
+    font-size: 16pt;
+    flex-shrink: 0;
+}
+
+.highlight-content {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.highlight-content strong {
+    font-size: 9.5pt;
+    color: #1a1a1a;
+    font-weight: 600;
+}
+
+.highlight-content span {
+    font-size: 8.5pt;
+    color: #444;
+    line-height: 1.35;
+}
+
+/* Core Competencies */
+.competency-section {
+    margin-bottom: 12px;
+}
+
+.competency-section h3 {
+    font-size: 10pt;
+    font-weight: 700;
+    color: #2c5f8d;
+    margin-bottom: 5px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #d0d0d0;
+}
+
+.competency-list {
+    margin-left: 18px;
+    margin-top: 4px;
+}
+
+.competency-list li {
+    margin-bottom: 3px;
+    font-size: 9.5pt;
+    line-height: 1.35;
+    color: #333;
+}
+
+.competency-list-two-col {
+    margin-left: 18px;
+    margin-top: 4px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3px 12px;
+}
+
+.competency-list-two-col li {
+    font-size: 9.5pt;
+    line-height: 1.35;
+    color: #333;
+}
+
+.competency-list-two-col strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+/* Professional Experience - Detailed */
+.job-detailed {
+    margin-bottom: 14px;
+}
+
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 5px;
+}
+
+.job-title {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #1a1a1a;
+}
+
+.company {
+    font-size: 10pt;
+    color: #2c5f8d;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.job-date {
+    font-size: 9pt;
+    color: #666;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.job-summary {
+    font-size: 9.5pt;
+    line-height: 1.4;
+    color: #444;
+    margin-bottom: 6px;
+    font-style: italic;
+}
+
+.responsibility-section {
+    margin-bottom: 10px;
+}
+
+.responsibility-section h4 {
+    font-size: 9.5pt;
+    font-weight: 600;
+    color: #2c5f8d;
+    margin-bottom: 4px;
+}
+
+.responsibility-section ul {
+    margin-left: 16px;
+}
+
+.responsibility-section li {
+    margin-bottom: 3px;
+    font-size: 9pt;
+    line-height: 1.35;
+    color: #333;
+}
+
+.responsibility-section li strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+.achievements {
+    margin-left: 16px;
+    margin-top: 4px;
+}
+
+.achievements li {
+    margin-bottom: 3px;
+    font-size: 9pt;
+    line-height: 1.35;
+    color: #333;
+}
+
+.achievements li strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+/* Technical Skills - Detailed */
+.skills-detailed {
+    display: grid;
+    gap: 12px;
+}
+
+.skill-section h3 {
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #2c5f8d;
+    margin-bottom: 6px;
+    padding-bottom: 3px;
+    border-bottom: 1.5px solid #d0d0d0;
+    page-break-after: avoid;
+}
+
+.skill-subsection {
+    margin-bottom: 10px;
+}
+
+.skill-subsection h4 {
+    font-size: 9.5pt;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 4px;
+    page-break-after: avoid;
+}
+
+.skill-subsection ul {
+    margin-left: 16px;
+}
+
+.skill-subsection li {
+    margin-bottom: 3px;
+    font-size: 9pt;
+    line-height: 1.35;
+    color: #333;
+}
+
+.skill-subsection li strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+.skill-note {
+    font-size: 8.5pt;
+    color: #666;
+    font-style: italic;
+    margin-top: 4px;
+    margin-left: 16px;
+}
+
+.two-column-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3px 12px;
+}
+
+/* Education - Detailed */
+.education-detailed {
+    display: grid;
+    gap: 14px;
+}
+
+.education-entry {
+}
+
+.education-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 4px;
+}
+
+.education-header h3 {
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0;
+}
+
+.education-school {
+    font-size: 9.5pt;
+    color: #2c5f8d;
+    font-weight: 600;
+    font-style: italic;
+    margin-top: 2px;
+}
+
+.education-year {
+    font-size: 9pt;
+    color: #666;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.education-focus,
+.education-thesis {
+    font-size: 9pt;
+    color: #444;
+    margin-bottom: 4px;
+}
+
+.education-details {
+    margin-left: 16px;
+    margin-top: 4px;
+}
+
+.education-details li {
+    margin-bottom: 3px;
+    font-size: 9pt;
+    line-height: 1.35;
+    color: #333;
+}
+
+.education-details strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+/* Patents & Publications */
+.patents-pubs {
+    font-size: 9pt;
+    line-height: 1.45;
+}
+
+.patents-pubs > div {
+    margin-bottom: 5px;
+}
+
+.patents-pubs strong {
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+/* Supervisory Experience */
+.supervisory-list {
+    display: grid;
+    gap: 6px;
+}
+
+.supervisory-item {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.supervisory-item strong {
+    font-size: 9.5pt;
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+.supervisory-item span {
+    font-size: 9pt;
+    color: #444;
+    line-height: 1.35;
+}
+
+/* Awards Grid */
+.awards-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px 12px;
+}
+
+.award-item {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.award-title {
+    font-size: 9.5pt;
+    color: #2c5f8d;
+    font-weight: 600;
+}
+
+.award-desc {
+    font-size: 8.5pt;
+    color: #444;
+    line-height: 1.35;
+}
+
+/* Page Break */
+.page-break {
+    page-break-after: always;
+    height: 0;
+}
+
+/* Print Optimization */
+@page {
+    margin: 0.4in 0.5in;
+    size: letter;
+}
+
+@media print {
+    body {
+        margin: 0;
+        padding: 0;
+        background: white;
+    }
+
+    .container {
+        max-width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .section {
+        margin-bottom: 0.2in;
+    }
+}
+
+/* Page break helpers */
+.page-break-before {
+    page-break-before: always;
+}
+
+.no-break {
+    page-break-inside: avoid;
+}

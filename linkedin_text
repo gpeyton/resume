@@ -1,0 +1,320 @@
+Versatile engineering background with four degrees in biomedical and electrical engineering. Expertise in analog/mixed signal ASIC design, analog & digital electronics, PCB & package design/modeling, wireless systems, imaging/instrumentation/measurement systems & algorithms, and software development. Strong background in medical imaging devices. 
+
+Currently working as a senior mixed signal IC design engineer on THz radar. 
+
+Technical Expertise:
+- Analog/mixed-signal IC design (low-noise analog front ends, ADC/DAC, BGR, LDO, OTP memory / eFUSE design, high speed RF SerDes TX PHY / LVDS drivers).
+- Chip-level characterization, automated testing and reliability testing.
+- PCB design, layout and modeling
+- Advanced package design and modeling
+- Familiar with FPGA, digital ASIC design
+- Embedded systems, C/C++, freeRTOS
+- Wireless: MQTT, WiFi, Bluetooth
+- Hardware and software architectural design
+- Software development, GPU coding. 
+
+Domain Expertise:
+- Measurement and instrumentation
+- IoT sensors
+- Imaging and signal processing
+- Medical devices
+
+Tools:
+- Altium, Eagle PCB design
+- Python, C++, C, MATLAB, Verilog, Verilog-A, SKILL, OCEAN, freeRTOS.
+- Cadence Virtuoso, Spectre, AMS, SIP, Sigrity/Clarity EM simulators.
+- Limited experience with Cadence Genus and Innovus
+
+
+ExperienceExperience
+
+TeraDAR logo
+Senior Mixed Signal ASIC Engineer
+Senior Mixed Signal ASIC Engineer
+TeraDAR · Full-timeTeraDAR · Full-time
+Jan 2023 - Present · 2 yrs 10 mosJan 2023 to Present · 2 yrs 10 mos
+Clinton, Connecticut, United StatesClinton, Connecticut, United States
+System architect and designer covering many bases at Teradar: AMS design, digital design, PNR management, SoC architecture, packaging, modeling. 
+
+Currently responsible for GHz multiplexed AFE IC, RFIC AMS architecture, analog front-end (AFE), SAR ADC design, LVDS, bandgap, digital, SerDes, serializer, verification & real number modeling (RNM) of mixed-signal systems, bringup, DFT.System architect and designer covering many bases at Teradar: AMS design, digital design, PNR management, SoC architecture, packaging, modeling. Currently responsible for GHz multiplexed AFE IC, RFIC AMS architecture, analog front-end (AFE), SAR ADC design, LVDS, bandgap, digital, SerDes, serializer, verification & real number modeling (RNM) of mixed-signal systems, bringup, DFT.
+Liminal Sciences, Inc. logo
+Electrical Engineering Lead
+Electrical Engineering Lead
+Liminal Sciences, Inc · Full-timeLiminal Sciences, Inc · Full-time
+Apr 2021 - Dec 2022 · 1 yr 9 mosApr 2021 to Dec 2022 · 1 yr 9 mos
+Guilford, Connecticut, United StatesGuilford, Connecticut, United States
+Owned the entire PCBA design cycle at Liminal Sciences. This includes architecture definition, component selection, schematic capture, simulation, layout, PCB signal and power integrity, DFM/DFT, bring-up, verification, environmental and EMC compliance, integration and PCB manufacturing.
+
+- Developing system architecture bridging hardware, software and mechanical from the ground up
+- Designing complex mixed (analog and digital) electrical designs involving: high speed interfaces, analog circuits, power, RF, etc.
+-Owning the entire PCBA design cycle; architecture definition, component selection, schematic capture, simulation, layout, PCB signal and power integrity, DFM/DFT, bring-up, verification, environmental and EMC compliance, integration and manufacturing NPI
+- Collaborating closely with mechanical engineers to design shielding, housing, display, etc.
+- Developing GPU powered imaging algorithms in C/C++Owned the entire PCBA design cycle at Liminal Sciences. This includes architecture definition, component selection, schematic capture, simulation, layout, PCB signal and power integrity, DFM/DFT, bring-up, verification, environmental and EMC compliance, integration and PCB manufacturing. - Developing system architecture bridging hardware, software and mechanical from the ground up - Designing complex mixed (analog and digital) electrical designs involving: high speed interfaces, analog circuits, power, RF, etc. -Owning the entire PCBA design cycle; architecture definition, component selection, schematic capture, simulation, layout, PCB signal and power integrity, DFM/DFT, bring-up, verification, environmental and EMC compliance, integration and manufacturing NPI - Collaborating closely with mechanical engineers to design shielding, housing, display, etc. - Developing GPU powered imaging algorithms in C/C++
+Butterfly Network, Inc. logo
+Butterfly Network, Inc.
+Butterfly Network, Inc.
+3 yrs 6 mos3 yrs 6 mos
+Principal Imaging Engineer
+Principal Imaging Engineer
+Full-timeFull-time
+Oct 2020 - Mar 2021 · 6 mosOct 2020 to Mar 2021 · 6 mos
+- Develop and improve new ultrasound imaging and signal processing modalities.
+- Develop supporting software infrastructure.
+- Work with clinical team to assess clinical performance and regulatory compliance. 
+- Develop and improve new ultrasound imaging and signal processing modalities. - Develop supporting software infrastructure. - Work with clinical team to assess clinical performance and regulatory compliance. 
+Analog / Mixed Signal IC Design Engineer
+Analog / Mixed Signal IC Design Engineer
+Oct 2018 - Oct 2020 · 2 yrs 1 moOct 2018 to Oct 2020 · 2 yrs 1 mo
+- Analog/mixed-signal IC design (SerDes, OTP memory)
+- Advanced package design and modeling
+- Longevity testing, verification & validation, chip-level characterization, board bringup.- Analog/mixed-signal IC design (SerDes, OTP memory) - Advanced package design and modeling - Longevity testing, verification & validation, chip-level characterization, board bringup.
+
+Butterfly iQ - Ultrasound, ultra-simplified.Butterfly iQ - Ultrasound, ultra-simplified.
+Medical imaging should be accessible to everyone on the planet. Now, a pocket-sized ultrasound provides a complete window into the human body. Join our mission.Medical imaging should be accessible to everyone on the planet. Now, a pocket-sized ultrasound provides a complete window into the human body. Join our mission.
+Intern
+Intern
+Oct 2017 - Sep 2018 · 1 yrOct 2017 to Sep 2018 · 1 yr
+- Analog IC design
+- Imaging techniques for portable ultrasound
+- Embedded, wireless systems- Analog IC design - Imaging techniques for portable ultrasound - Embedded, wireless systems
+Co-Founder
+Co-Founder
+Co-Founder
+Aquanova Technologies LLC · Self-employedAquanova Technologies LLC · Self-employed
+Mar 2020 - Oct 2020 · 8 mosMar 2020 to Oct 2020 · 8 mos
+Guilford, Connecticut, United StatesGuilford, Connecticut, United States
+Building a novel microfluidic sensor for automated water analysis. 
+- Designed electromechanical parts, fluidics, sensor/readout electronics, wireless & power boards. 
+- Worked with lead mechanical engineer in designing and machining fluidic manifold using novel sequential injection analysis technique.
+- Wrote firmware on freeRTOS supporting MQTT wireless communications with AWS backend; designed backend software infrastructure to support data analytics.Building a novel microfluidic sensor for automated water analysis. - Designed electromechanical parts, fluidics, sensor/readout electronics, wireless & power boards. - Worked with lead mechanical engineer in designing and machining fluidic manifold using novel sequential injection analysis technique. - Wrote firmware on freeRTOS supporting MQTT wireless communications with AWS backend; designed backend software infrastructure to support data analytics.…see more
+Liminal Sciences, Inc. logo
+Consultant Hardware Engineer
+Consultant Hardware Engineer
+Liminal Sciences, Inc · Part-timeLiminal Sciences, Inc · Part-time
+Feb 2019 - Jun 2020 · 1 yr 5 mosFeb 2019 to Jun 2020 · 1 yr 5 mos
+Guilford, CTGuilford, CT
+Developing a next-gen brain-computer interface, focusing on hardware design and verification.Developing a next-gen brain-computer interface, focusing on hardware design and verification.
+Home – EpilepsyCoHome – EpilepsyCo
+A device that gives you 24-hour peace of mind. So you can live the life you want without fear.A device that gives you 24-hour peace of mind. So you can live the life you want without fear.
+Show all 15 experiences
+EducationEducation
+Imperial College London logo
+Imperial College London
+Imperial College London
+Doctor of Philosophy (PhD), Bioengineering and Electrical EngineeringDoctor of Philosophy (PhD), Bioengineering and Electrical Engineering
+2014 - 20172014 - 2017
+University of the Witwatersrand logo
+University of the Witwatersrand
+University of the Witwatersrand
+Master of Science (MSc), Biomedical Engineering (cum laude)Master of Science (MSc), Biomedical Engineering (cum laude)
+2013 - 20142013 - 2014
+Computational neuroscience, multivariate signal processing.Computational neuroscience, multivariate signal processing.
+Show all 5 educations
+SkillsSkills
+Electrical Engineering
+Electrical Engineering
+Ken Nixon profile picture
+Endorsed by Ken Nixon and 7 others who are highly skilled at thisEndorsed by Ken Nixon and 7 others who are highly skilled at this
+University of the Witwatersrand logo
+Endorsed by 6 colleagues at University of the WitwatersrandEndorsed by 6 colleagues at University of the Witwatersrand
+34 endorsements
+34 endorsements
+Biomedical Engineering
+Biomedical Engineering
+University of the Witwatersrand logo
+Endorsed by 6 colleagues at University of the WitwatersrandEndorsed by 6 colleagues at University of the Witwatersrand
+32 endorsements
+32 endorsements
+Show all 19 skills
+RecommendationsRecommendations
+Show all pending
+
+ReceivedReceived
+GivenGiven
+Tyler Ralston
+Tyler Ralston
+Tyler Ralston
+· 1stFirst degree connection
+Chief Technology Officer, Oxford Nanoimaging | Co-founder, Butterfly Network; CTO, Tesseract; Fellow, 4CatalyzerChief Technology Officer, Oxford Nanoimaging | Co-founder, Butterfly Network; CTO, Tesseract; Fellow, 4Catalyzer
+July 2, 2018, Tyler was senior to Graham but didn't manage Graham directlyJuly 2, 2018, Tyler was senior to Graham but didn't manage Graham directly
+Dr. Peyton is a leading expert in the field of biomedical engineering. He has proven to be one of the most advanced and assured thinkers within medical imaging technology, and his endeavors have enabled significant developments both for Butterfly Network and the wider biomedical field.
+
+I work closely with Dr. Peyton at Butterfly Network, designing the imaging algorithms for our wireless wearable device. He is deeply and crucially involved in the research, development, design, and implementation of integrated circuit analog signal chains and high-speed transmitter interface designs, which are critical to improving the images generated by our ultrasound technology. Graham has also made important contributions in combining the latest wireless technology with our ultrasound device, and in optimizing algorithms that translate ultrasound waves into 2D cross-sectional images for transmission over a wireless network. Building on his groundbreaking Ph.D. work, during which Dr. Peyton invented a revolutionary ultrasound microchip, he is a lead developer of a world-first medical wearable solution that monitors chronic diseases and bodily functions. 
+
+This is of particular significance and importance because of the advantages enabled by portable, life-saving ultrasound treatment, which is both cheaper and more accessible than conventional methods. It means that the revolutionary work Dr. Peyton is doing with us at Butterfly Network has the chance to permanently alter the medical imaging industry. Companies and institutions are always attempting to reduce the cost, size, power consumption and data bandwidth required for ultrasound imaging, and his contributions and expertise are hypercritical to solving these needs. Graham is an instrumental figure in developing our latest product and has added insight and expertise in our acquisition of a preliminary patent for our work. The patent, on which he is a co-author with me, presents techniques for offloading data in an efficient way over a wireless network, and on various applications of a wearable, wireless ultrasound device/patch.
+
+Dr. Peyton has proven himself to be invaluable to the growth and progress of this crucial medical area, and he is a rare asset who will continue to render essential and invaluable contributions to our company. I would be more than happy to provide any further information you may need.Dr. Peyton is a leading expert in the field of biomedical engineering. He has proven to be one of the most advanced and assured thinkers within medical imaging technology, and his endeavors have enabled significant developments both for Butterfly Network and the wider biomedical field. I work closely with Dr. Peyton at Butterfly Network, designing the imaging algorithms for our wireless wearable device. He is deeply and crucially involved in the research, development, design, and implementation of integrated circuit analog signal chains and high-speed transmitter interface designs, which are critical to improving the images generated by our ultrasound technology. Graham has also made important contributions in combining the latest wireless technology with our ultrasound device, and in optimizing algorithms that translate ultrasound waves into 2D cross-sectional images for transmission over a wireless network. Building on his groundbreaking Ph.D. work, during which Dr. Peyton invented a revolutionary ultrasound microchip, he is a lead developer of a world-first medical wearable solution that monitors chronic diseases and bodily functions. This is of particular significance and importance because of the advantages enabled by portable, life-saving ultrasound treatment, which is both cheaper and more accessible than conventional methods. It means that the revolutionary work Dr. Peyton is doing with us at Butterfly Network has the chance to permanently alter the medical imaging industry. Companies and institutions are always attempting to reduce the cost, size, power consumption and data bandwidth required for ultrasound imaging, and his contributions and expertise are hypercritical to solving these needs. Graham is an instrumental figure in developing our latest product and has added insight and expertise in our acquisition of a preliminary patent for our work. The patent, on which he is a co-author with me, presents techniques for offloading data in an efficient way over a wireless network, and on various applications of a wearable, wireless ultrasound device/patch. Dr. Peyton has proven himself to be invaluable to the growth and progress of this crucial medical area, and he is a rare asset who will continue to render essential and invaluable contributions to our company. I would be more than happy to provide any further information you may need.…see more
+COLIN CARO
+COLIN CARO
+COLIN CARO
+· 1stFirst degree connection
+Emeritus Professor of Physiological Mechanics and Senior Research Investigator at Imperial College LondonEmeritus Professor of Physiological Mechanics and Senior Research Investigator at Imperial College London
+November 10, 2016, COLIN was senior to Graham but didn't manage Graham directlyNovember 10, 2016, COLIN was senior to Graham but didn't manage Graham directly
+I have not supervised Graham's research but know about him from his CV and also because I have had contact with him as a result of our both being alumni of the University of the Witwatersrand. 
+ 
+His CV shows him to be highly talented. Contact with his supervisors records him to be making excellent progress in his PhD studies. Contact with him has furthermore, revealed him to be a highly personable individual. Altogether, he has a prospect of a highly successful career. I have not supervised Graham's research but know about him from his CV and also because I have had contact with him as a result of our both being alumni of the University of the Witwatersrand. His CV shows him to be highly talented. Contact with his supervisors records him to be making excellent progress in his PhD studies. Contact with him has furthermore, revealed him to be a highly personable individual. Altogether, he has a prospect of a highly successful career. 
+PublicationsPublications
+Methods and apparatuses for offloading ultrasound data
+Methods and apparatuses for offloading ultrasound data
+US Patent US20190343484A1 · Jan 1, 2019US Patent US20190343484A1 · Jan 1, 2019
+Show publication
+Comparison of synthetic aperture architectures for miniaturised ultrasound imaging front-ends
+Comparison of synthetic aperture architectures for miniaturised ultrasound imaging front-ends
+BioMedical Engineering Online · Jan 1, 2018BioMedical Engineering Online · Jan 1, 2018
+Show publication
+Show all 6 publications
+PatentsPatents
+Miniaturised Wireless Ultrasound System
+Miniaturised Wireless Ultrasound System
+GB 1621423.1 · Filed Dec 16, 2016GB 1621423.1 · Filed Dec 16, 2016
+The present invention relates to a highly miniaturised, wireless ultrasound imaging device comprising an analogue front-end and digital beamformer.
+The present invention relates to a highly miniaturised, wireless ultrasound imaging device comprising an analogue front-end and digital beamformer. 
+CoursesCourses
+Advanced Analogue IC Design (Europractice)
+Advanced Analogue IC Design (Europractice)
+Imperial College London logo
+Associated with Imperial College London
+Associated with Imperial College London
+Comprehensive Digital IC Implementation & Signoff (Europractice)
+Comprehensive Digital IC Implementation & Signoff (Europractice)
+Imperial College London logo
+Associated with Imperial College London
+Associated with Imperial College London
+Honors & awardsHonors & awards
+President's Imperial College PhD Scholarship
+President's Imperial College PhD Scholarship
+Issued by Imperial College London · May 2014Issued by Imperial College London · May 2014
+Imperial College London logo
+Associated with Imperial College London
+Associated with Imperial College London
+Full PhD scholarship covering tuition fees, stipend and research expenditure (total £50550 per annum), offered to the top ~1.5%.
+
+"The Imperial College PhD Scholarship scheme gives the most talented students from around the globe the opportunity to apply for one of 50 highly-competitive full scholarships in science, engineering, medicine or business."Full PhD scholarship covering tuition fees, stipend and research expenditure (total £50550 per annum), offered to the top ~1.5%. "The Imperial College PhD Scholarship scheme gives the most talented students from around the globe the opportunity to apply for one of 50 highly-competitive full scholarships in science, engineering, medicine or business."
+National Research Fund (NRF) Scholarship 
+National Research Fund (NRF) Scholarship 
+Issued by National Research Foundation · Jan 2013Issued by National Research Foundation · Jan 2013
+University of the Witwatersrand logo
+Associated with University of the Witwatersrand
+Associated with University of the Witwatersrand
+Scarce Skills Masters Scholarship covering full tuition fees. Scarce Skills Masters Scholarship covering full tuition fees. 
+Show all 10 honors & awards
+OrganizationsOrganizations
+IEEE student committee
+IEEE student committee
+Executive IEEE student committee member · Jan 2013 - Dec 2013Executive IEEE student committee member · Jan 2013 - Dec 2013
+University of the Witwatersrand logo
+Associated with University of the Witwatersrand
+Associated with University of the Witwatersrand
+InterestsInterests
+Top VoicesTop Voices
+CompaniesCompanies
+GroupsGroups
+NewslettersNewsletters
+SchoolsSchools
+Jay Clouse
+Jay Clouse
+Jay Clouse
+· 2ndSecond degree connection
+Founder of Creator Science — Helping thousands of creators build sturdy businesses through observation, experimentation, and iteration.Founder of Creator Science — Helping thousands of creators build sturdy businesses through observation, experimentation, and iteration.
+56,922 followers56,922 followers
+
+Following
+Justin Welsh
+Justin Welsh
+Justin Welsh
+· 2ndSecond degree connection
+The $10M Solopreneur | Helping 100,000+ burned-out corporate professionals build six-figure, one-person online businesses.The $10M Solopreneur | Helping 100,000+ burned-out corporate professionals build six-figure, one-person online businesses.
+788,172 followers788,172 followers
+
+Following
+Show all Top Voices
+Profile language
+English
+
+Public profile & URL
+www.linkedin.com/in/grahampeyton
+
+Who your viewers also viewedWho your viewers also viewed
+ Private to you Private to you
+
+Someone at TeraDAR
+Someone at TeraDAR
+Someone at TeraDAR
+
+View
+Someone at Quantum-Si
+Someone at Quantum-Si
+Someone at Quantum-Si
+
+View
+Technology Manager in the Appliances,…
+Technology Manager in the Appliances,…
+Technology Manager in the Appliances,…
+
+View
+Someone at TeraDAR
+Someone at TeraDAR
+Someone at TeraDAR
+
+View
+People you may knowPeople you may know
+From your companyFrom your company
+
+Krista V.
+Krista V.
+Krista V.
+Electronics Lab Manager/Master TechnicianElectronics Lab Manager/Master Technician
+
+Connect
+Steven Del Gaizo
+Steven Del Gaizo
+Steven Del Gaizo
+Senior Manager, Program Management - TeraDAR | Startup & OEM| LiDAR, Radar, & ADAS | Program & Engineering Leader | PMP Certified | DEI & LGBTQ+ SpeakerSenior Manager, Program Management - TeraDAR | Startup & OEM| LiDAR, Radar, & ADAS | Program & Engineering Leader | PMP Certified | DEI & LGBTQ+ Speaker
+
+Connect
+Joshua Zak
+Joshua Zak
+Joshua Zak
+Hardware and Test Development Engineer at TeraDARHardware and Test Development Engineer at TeraDAR
+
+Connect
+Brian T.
+Brian T.
+Brian T.
+RF Test EngineerRF Test Engineer
+
+Connect
+Timothy Leclerc
+Timothy Leclerc
+Timothy Leclerc
+Corporate Operations @ TeraDAR | 2025 Northeastern GradCorporate Operations @ TeraDAR | 2025 Northeastern Grad
+
+Connect
+Show all
+You might likeYou might like
+Pages for youPages for you
+
+Anthropic logo
+Anthropic
+Anthropic
+Research ServicesResearch Services
+1,467,960 followers1,467,960 followers
+
+
+
+3 connections work here
+
+Follow
+AMD logo
+AMD
+AMD
+Semiconductor ManufacturingSemiconductor Manufacturing
+1,937,961 followers1,937,961 followers
+
+1 connection works here
+
+Follow
+Show all
+
+
+

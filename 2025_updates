@@ -1,0 +1,34 @@
+
+
+Latest TeraDAR updates (2025):
+Managed entire AMS architecture from conception to tapeout to test/bringup. 
+Designed CMOS blocks (already listed - BGR, LDO, SAR ADC, muxes, LVDS drivers, SerDes PHY, low speed DACs, level shifters, amplifiers.  
+Very familiar with typical RFIC blocks, though not involved in design: mixers, LNA, PA, phase shifters, filters, etc. Primarily responsible for their integraiton into the overall system. Started the effort on verilog-AMS, SV RNM models of RF blocks in frequency domain - in progress. 
+Utilized Analog Design Toolkit (ADT) for automation of core amplifier blocks. 
+Maintain AFE system specification. Extensive cross-functional collaboration with ADC/FPGA/Co-design/IP teams. 
+Expert at translating requirements into specifications and practical designs.
+Managed place & route across multiple projects - SPI, digital controllers, ADC SARs, SRAM, level shifters, etc. 
+Lab testing/bringup
+Validation - currently drafting entire validation plan for upcoming engineering samples & production ATE. 
+Very well acquainted with ISO26262, ISO21434, AEC-Q100 requirements - architected design according to standard. 
+
+Chips:
+Currently lead entire AMS architecture for both TX and RX RFICs, including IP selection, AFE development, digital controls, memory, clocks, diagnostics, etc. 
+2023:Led development of a 65nm multi-channel AFE/ADC chip with SerDes output.
+Assisted with various breakout tapeouts of RFIC test structures. 
+Current: Architected and lead outsourced development of entire high speed GHz multiplexed ADC chip - 16nm FFC. . Architected UCIe die-to-die link capable of supporting 250+ Gbps bandwidth
+Current key architectural contributor to 8nm digital SOC chip currently in development.
+
+Packaging
+Architected complex MCM package incoporating AMS and digital SoCs with high speed interconnect and massive IF fanout. 
+Led advanced modeling effort on many domains of SI/PI, including IF routing SI, PI (IR-drop, PDN), clock distribution, high speed UCIe interconnect.
+Heavily involved in selecting packaging vendors, stackups, to optimize cost and performance with ISO26262 constraints. 
+
+Software
+Architected cross-functional C APIs and gold standard XML data structures to unify verification, test/bringup, and production software systems.
+Proficient in Python, C++, C, MATLAB, Verilog, Verilog-A, SKILL, OCEAN. Wrote a lot of Python for various ASIC development tasks. 
+Familiar with a wide variety of web-based languages, though only consider myself a vibe coder :) 
+Adept with software development tools, especially AI coding tools. 
+Adept with version control for RTL development, CI/CD pipelines. 
+Adept with Linux environment and shell scripting. 
+
